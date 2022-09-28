@@ -2,4 +2,4 @@
 
 Early project of analog and digital clocks.
 
-Analog clock needs improvment.
+Analog clock needs improvement.
